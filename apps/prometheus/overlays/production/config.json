@@ -1,0 +1,1 @@
+{"appName":"prometheus","userGivenName":"prometheus","destNamespace":"default","destServer":"https://kubernetes.default.svc","srcPath":"apps/prometheus/overlays/production","srcRepoURL":"https://github.com/highb/argocd-symmetrical-spoon.git","srcTargetRevision":"","labels":null}
