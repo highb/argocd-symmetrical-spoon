@@ -29,3 +29,8 @@ spec:
         name: webserver-simple
         ports:
         - containerPort: 8080
+---
+apiVersion: v1
+kind: Secret
+metadata:
+  name: super-secret
