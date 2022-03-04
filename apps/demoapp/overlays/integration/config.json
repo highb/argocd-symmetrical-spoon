@@ -1,1 +1,0 @@
-{"appName":"demoapp","userGivenName":"demoapp","destNamespace":"demoapp","destServer":"https://kubernetes.default.svc","srcPath":"apps/demoapp/overlays/integration","srcRepoURL":"https://github.com/highb/argocd-symmetrical-spoon.git","srcTargetRevision":"","labels":null}
